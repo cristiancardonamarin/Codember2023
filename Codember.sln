@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codember", "Codember\Codember.csproj", "{FDC88A6F-4659-4049-83A9-2BD987A07765}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge01", "Challenge01\Challenge01.csproj", "{FDC88A6F-4659-4049-83A9-2BD987A07765}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

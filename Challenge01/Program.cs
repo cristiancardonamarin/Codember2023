@@ -1,5 +1,4 @@
-﻿using System.Linq;
-
+﻿//CHALLENGE 01
 var httpClient = new HttpClient();
 var response = await httpClient.GetAsync("https://codember.dev/data/message_01.txt");
 var message = await response.Content.ReadAsStringAsync();
@@ -11,3 +10,4 @@ var finalResult = string.Join("",groups.Select(group => $"{group.Key}{group.Coun
 
 Console.WriteLine(finalResult);
 Console.ReadKey();
+  
