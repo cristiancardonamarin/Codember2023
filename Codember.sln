@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge02", "Challenge02\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge03", "Challenge03\Challenge03.csproj", "{511762C0-3B6B-4BDF-BDC6-1972B5EEBF1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge04", "Challenge04\Challenge04.csproj", "{80DD3C00-15FC-472C-A02C-A77F63DA1123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge05", "Challenge05\Challenge05.csproj", "{2BAF933D-431A-4499-B431-64E0C2BB3E38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{511762C0-3B6B-4BDF-BDC6-1972B5EEBF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{511762C0-3B6B-4BDF-BDC6-1972B5EEBF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{511762C0-3B6B-4BDF-BDC6-1972B5EEBF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80DD3C00-15FC-472C-A02C-A77F63DA1123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DD3C00-15FC-472C-A02C-A77F63DA1123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DD3C00-15FC-472C-A02C-A77F63DA1123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DD3C00-15FC-472C-A02C-A77F63DA1123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BAF933D-431A-4499-B431-64E0C2BB3E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BAF933D-431A-4499-B431-64E0C2BB3E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BAF933D-431A-4499-B431-64E0C2BB3E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BAF933D-431A-4499-B431-64E0C2BB3E38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
